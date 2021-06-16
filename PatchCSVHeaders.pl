@@ -1,4 +1,6 @@
 #!perl
+#
+# Prepends a header to each index.csv file
 # Craig Fitzgerald
 
 use warnings;

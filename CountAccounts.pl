@@ -1,4 +1,6 @@
 #!perl
+#
+# CountAccounts.pl  -  Traverses dirs, Counts all the acccounts (~160,000 so far)
 # Craig Fitzgerald
 
 use warnings;

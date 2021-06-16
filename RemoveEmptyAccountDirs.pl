@@ -1,4 +1,6 @@
 #!perl
+#
+# Removes all account dirs with no Correspondence
 # Craig Fitzgerald
 
 use warnings;
